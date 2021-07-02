@@ -1,6 +1,5 @@
 programa
 {
-	
 	funcao inicio()
 	{
 		escreva("---SOMANDO VALORES---\n")
