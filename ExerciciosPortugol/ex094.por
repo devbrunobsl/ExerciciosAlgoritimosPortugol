@@ -1,6 +1,7 @@
 programa
 {
-	funcao Fibonacci(inteiro quantia) {
+	
+funcao Fibonacci(inteiro quantia) {
 		inteiro t1 = 1, t2 = 1, t3
 		se(quantia == 1) {
 			escreva(t1)
@@ -27,14 +28,3 @@ programa
 		escreva("FIM")
 	}
 }
-/* $$$ Portugol Studio $$$ 
- * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
- * 
- * @POSICAO-CURSOR = 563; 
- * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = ;
- * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
- * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
- */
