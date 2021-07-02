@@ -1,6 +1,5 @@
 programa
 {
-	
 	funcao inicio()
 	{
 		escreva("---JOGO DA ADIVINHAÇÃO 2.0---\n")
