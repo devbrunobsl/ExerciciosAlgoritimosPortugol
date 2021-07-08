@@ -1,6 +1,7 @@
 programa
 {
-	funcao inteiro somador(inteiro num1, inteiro num2)
+	
+funcao inteiro somador(inteiro num1, inteiro num2)
 	{
 		inteiro res
 		res = num1 + num1
@@ -18,14 +19,3 @@ programa
 		escreva("A soma entre esses números é " + s)
 	}
 }
-/* $$$ Portugol Studio $$$ 
- * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
- * 
- * @POSICAO-CURSOR = 369; 
- * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = ;
- * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
- * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
- */
