@@ -1,6 +1,7 @@
 programa
 {
-	funcao real media(real nota1, real nota2)
+	
+funcao real media(real nota1, real nota2)
 	{
 		real res
 		res = (nota1 + nota2) / 2
@@ -18,14 +19,3 @@ programa
 		escreva("A média do aluno é de " + m)
 	}
 }
-/* $$$ Portugol Studio $$$ 
- * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
- * 
- * @POSICAO-CURSOR = 373; 
- * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = ;
- * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
- * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
- */
