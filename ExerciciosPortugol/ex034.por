@@ -9,7 +9,7 @@ programa
 		leia(peso)
 		escreva("Qual a sua altura?")
 		leia(altura)
-		IMC = peso / altura ^ 2
+		IMC = peso / (altura * altura)
 		leia(IMC)
 		se (IMC < 18.5) {
 			escreva("Seu IMC é " + IMC + " e você está abaixo do peso")
